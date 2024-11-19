@@ -1,2 +1,2 @@
 # API_MicrosoftFabric
-This repository is the guide how to use Microsoft Fabric API 
+This repository is the guide how to use Microsoft Fabric REST API 
